@@ -1,5 +1,5 @@
 # venom-2
-my first project  
+My first project  
 using technologies:  
 -html  
 -css  
